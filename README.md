@@ -4,13 +4,13 @@
 
 登录功能模块后期有时间开发~（暂时使用临时测试用户）
 
+技术栈：uni-app、unicloud、vue
+
 ### H5移动网页预览：
 
 [项目预览地址](https://static-4ad7710e-8d5f-4da8-a504-5576b9ef6af6.bspapp.com/)
 
-<img src="\static\nothing-news-QR code.png" style="zoom:50%;" align="left"/>
-
-技术栈：uni-app、unicloud、vue
+<img src="images/nothing-news-QR code.png" style="zoom:50%;" align="left"/>
 
 ## 插件
 
