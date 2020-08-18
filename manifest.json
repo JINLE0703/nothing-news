@@ -117,7 +117,7 @@
         "enable" : false
     },
     "h5" : {
-        "title" : "不知道新闻",
+        "title" : "不知道快报",
         "router" : {
             "mode" : "history"
         },
