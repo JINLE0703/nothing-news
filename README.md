@@ -41,7 +41,7 @@
 
 [项目预览地址](https://static-4ad7710e-8d5f-4da8-a504-5576b9ef6af6.bspapp.com/)
 
-<img src="images/nothing-news-QR code.png" width="200" align="left"/>
+<img src="images/nothing-news-QR code.png" width="200"/>
 
 ## 微信小程序预览图
 
