@@ -31,15 +31,37 @@
 3、h5；
 ```
 
-## H5移动网页预览
-
-[项目预览地址](https://static-4ad7710e-8d5f-4da8-a504-5576b9ef6af6.bspapp.com/)
-
-<img src="images/nothing-news-QR code.png" style="zoom:50%;" align="left"/>
-
 ## 使用说明
 
 ```
 请在 HBuilderX 中打开
 ```
+
+## H5移动网页预览
+
+[项目预览地址](https://static-4ad7710e-8d5f-4da8-a504-5576b9ef6af6.bspapp.com/)
+
+<img src="images/nothing-news-QR code.png" width="200" align="left"/>
+
+## 微信小程序预览图
+
+主页、关注页、个人页
+
+<img src="images\home.png" width="300"/><img src="images\follow.png" width="300"/><img src="images\my.png" width="300"/>
+
+详情页、评论页、搜索页
+
+<img src="images\detail.png" width="300"/><img src="images\comment.png" width="300"/><img src="images\search.png" width="300"/>
+
+标签页、反馈页
+
+<img src="images\label.png" width="300"/><img src="images\feedback.png" width="300"/>
+
+
+
+
+
+
+
+
 
